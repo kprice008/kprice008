@@ -2,7 +2,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post Installation Configuration]
+  - [osTicket: Post Installation Configuration] osTicket-Post-Installation-Configuration/README.md
   - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
