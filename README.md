@@ -2,7 +2,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - osTicket-Post-Installation-Configuration/README.md
+  - https://github.com/kprice008/osTicket-Post-Installation-Configuration
   - [osTicket: Ticket Lifecycle Examples]
 
 
