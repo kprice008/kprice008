@@ -3,6 +3,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - https://github.com/kprice008/osTicket-Post-Installation-Configuration
+- <b>Virtual Private Networks</b>
+
 
 <h2> Cybersecurity Projects:</h2>
 <b>Perform a Security Audit</b>
