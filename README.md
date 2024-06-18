@@ -1,4 +1,4 @@
-## Hi there, my name is Kel! An <a href="https://www.linkedin.com/in/kelbry-price-927867221/">IT Professional
+## Hi there, my name is Kel! A <a href="https://www.linkedin.com/in/kelbry-price-927867221/">Cybersecurity Professional
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
