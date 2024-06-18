@@ -15,6 +15,7 @@ This project involved setting up a Virtual Machine in Microsoft Azure, logging i
 
 <b>Incident Security Analysis Using NIST CSF</b>
 
+https://github.com/user-attachments/files/15878649/Incident.Report.Analysis.Using.NIST.CSF.pdf
 
 
 [linkedin]: https://www.linkedin.com/in/kelbry-price-927867221/
