@@ -19,5 +19,7 @@ https://github.com/user-attachments/files/15878649/Incident.Report.Analysis.Usin
 
 <b>Changing Directory/File Permissions within Linux</b>
 
+https://github.com/user-attachments/files/16041564/File.permissions.in.Linux.Project.docx
+
 
 [linkedin]: https://www.linkedin.com/in/kelbry-price-927867221/
