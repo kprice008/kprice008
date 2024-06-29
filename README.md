@@ -17,5 +17,7 @@ This project involved setting up a Virtual Machine in Microsoft Azure, logging i
 
 https://github.com/user-attachments/files/15878649/Incident.Report.Analysis.Using.NIST.CSF.pdf
 
+<b>Changing Directory/File Permissions within Linux</b>
+
 
 [linkedin]: https://www.linkedin.com/in/kelbry-price-927867221/
